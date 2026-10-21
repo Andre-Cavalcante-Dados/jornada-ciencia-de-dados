@@ -1,7 +1,9 @@
 # Este será o meu diário técnico. 
 
-🟢Registrarei os meus estudos, compartilharei os exercícios realizados, dificuldades e aprendizados.
+🟢 Registrarei os meus estudos, compartilharei os exercícios realizados, dificuldades e aprendizados.
+
 🟢 Roadmap conhecimento autodidata para aprender a ser um Cientista de dados
+
 🟢 Estou utilizando um conselho de um Youtuber e também pedi ajuda ao Chat GPT para criar as fases. Alguns tópicos tenho conhecimento, mas mesmo assim, realizarei uma reciclagem.
 
 
