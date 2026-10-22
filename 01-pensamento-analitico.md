@@ -184,5 +184,7 @@ Acredito que preciso formular mais perguntas e definir métricas que permitam re
 
 Autoavaliação:
 (sim)_Consigo explicar o conceito com minhas palavras
+
 (parcialmente)_Consigo resolver um exercício sem consultar a solução
+
 (sim)_Consigo aplicar o conceito em um problema diferente
