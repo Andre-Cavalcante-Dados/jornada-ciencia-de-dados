@@ -19,6 +19,7 @@ O problema é algo simples, mas é possível obter vários insights
 
 _______________________________________________________________________________________________________________________________
 Problema: 
+
 Empresa X que tem o seguinte os seguintes dados:
 
 Indicador|        Mês anterior|      Mês atual|
@@ -30,6 +31,7 @@ Pedidos realizados|        200|            170|
 Vendedores|                 10|             10|
 _______________________________________________________________________________________________________________________________
 Pergunta 1) Qual é o fato comprovado pelos dados apresentados?	
+
 A) Os vendedores estão trabalhando menos.
 
 B) O faturamento e o número de pedidos diminuíram 15%.
@@ -47,6 +49,7 @@ Conceito aprendido: observar uma mudança não significa conhecer sua causa."
 _______________________________________________________________________________________________________________________________
 Pergunta 2) Escreva uma pergunta que ajudaria a investigar a causa da queda nas vendas.
 Resposta:
+
 Houve mudança na política de preço? (fui objetivo e literal na resposta)
 
 Comentários da IA:
@@ -70,6 +73,7 @@ A melhoria principal: uma pergunta analítica não deve apenas identificar algo 
 _______________________________________________________________________________________________________________________________
 Pergunta 3) Cite duas hipóteses possíveis para explicar a queda no faturamento.
 Resposta:
+
 - Possível aumento na política de preços
 - Redução na quantidade de produtos do portifólio (Duas hipóteses plausíveis.)
 
@@ -97,6 +101,7 @@ Não precisamos listar todas as possibilidades do universo. Precisamos construir
 _______________________________________________________________________________________________________________________________
 - Pergunta 4) Quais dados adicionais você buscaria para descobrir a causa da queda?
 Resposta:
+
 - Avaliaria se os 20 vendedores são os mesmos, pois poderia ter uma mudança no headcount e isso impactaria no treinamento de vendas (se tratando de um curto período de tempo)
 - Analisar o histórico de vendas para identificar sazonalidade ou ciclo de vendas
 - Se for um ramo de serviços, avaliaria se teve algum problema de reclamação da empresa que justificasse a queda. Se for um ramo de produtos acabados, avaliaria se houve algum problema de logística.
