@@ -31,9 +31,13 @@ Vendedores|                 10|             10|
 _______________________________________________________________________________________________________________________________
 Pergunta 1) Qual é o fato comprovado pelos dados apresentados?	
 A) Os vendedores estão trabalhando menos.
+
 B) O faturamento e o número de pedidos diminuíram 15%.
+
 C) Os clientes estão insatisfeitos.
+
 D) A empresa precisa contratar mais vendedores
+
 Respondi a opção B (acertei)
 
 Comentários da IA: 
