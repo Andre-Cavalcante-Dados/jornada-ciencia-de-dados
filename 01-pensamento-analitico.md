@@ -178,7 +178,7 @@ Tem uma frase que fez sentido na minha avaliação "explicar matematicamente com
 Analisando as respostas, pude ver que preciso pensar mais em outras possibilidas
 O próximo passo é disciplinar esse raciocínio: definir indicadores, procurar evidências que possam contrariar suas próprias hipóteses e evitar conclusões precipitadas.
 
-$ 6. Próximo passo
+# 6. Próximo passo
 
 Acredito que preciso formular mais perguntas e definir métricas que permitam respondê-las.
 
