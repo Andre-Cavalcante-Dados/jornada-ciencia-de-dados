@@ -21,10 +21,10 @@ ________________________________________________________________________________
 Problema: 
 Empresa X que tem o seguinte os seguintes dados:
 
-                    Mês anterior    Mês atual
-Faturamento:        R$ 100.000      R$ 85.000
-Pedidos realizados:        200            170
-Vendedores:                 10             10
+Indicador|        Mês anterior|      Mês atual
+Faturamento|        R$ 100.000|      R$ 85.000
+Pedidos realizados|        200|            170
+Vendedores|                 10|             10
 _______________________________________________________________________________________________________________________________
 Pergunta 1) Qual é o fato comprovado pelos dados apresentados?	
 A) Os vendedores estão trabalhando menos.
