@@ -1,6 +1,6 @@
 # Registro de aprendizagem
 
-Data: 2026=10-22
+Data: 2026-10-22
 
 Fase: 01. Pensamento analítico e fundamentos
 
