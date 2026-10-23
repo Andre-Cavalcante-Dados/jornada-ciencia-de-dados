@@ -188,3 +188,44 @@ Autoavaliação:
 (parcialmente)_Consigo resolver um exercício sem consultar a solução
 
 (sim)_Consigo aplicar o conceito em um problema diferente
+
+
+
+
+Data: 2026-10-23
+
+Fase: 01. Pensamento analítico e fundamentos
+
+Assunto estudado:
+Assisti um vídeo no youtube
+Título: Sem + delongas #17 - Pensamento Analítico com Tiago Barra
+Link: https://www.youtube.com/watch?v=ztRyk2BURGk
+
+# 1. O que estudei?
+- O vídeo é um podcast com perguntas destinadas ai Tiago Barra para explorar mais sobre o pensamento analítico
+- Tiago conseguiu compartilhar alguns pontos interessantes que o exercício do dia anterior não tinha captado
+  
+  
+# 2. O que aprendi?
+- Preciso aprender a fazer mais perguntas (tema que corrobora com o estudo do dia anterior)
+- Para facilitar a busca de mais perguntas é é importante aprender a contar história (storytelling)
+- Tem uma frase que foi compartilhada que achei interessante: "Se você não tiver muito claro qual é o seu processo de decisão, adicionar dados só piora"
+- Uma dica interessante foi compartilhado como realizar mais perguntas: viajar, ler um livro de filosofia são opções para abrir mais a mente
+- Ser curioso ajuda muito também no processo
+- As hipóteses são bem vindas e feeling não precisa abondonar totalmente
+- Teve um case de ifood apresentado que mostra o quanto é importante dosarmos a abertura do menu de opções de comida: quando tem muita opção, isso pode ser um impeditivo na escolha
+
+
+# 3. Como apliquei?
+- Não consegui aplicar ainda, mas achei interessante reforçar os conceitos acima
+
+# 4. Onde tive dificuldade?
+
+# 5. Como melhorei meu raciocínio?
+- Para saber como utilizar mais os dados, preciso aprender a modelar os meus processos para identificaçao de mais dados
+- O conhecimento compartilhado vai melhorar até as minhas decisões pessoais
+
+
+# 6. Próximo passo
+
+
